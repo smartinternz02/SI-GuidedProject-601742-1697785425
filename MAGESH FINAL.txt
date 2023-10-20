@@ -1,0 +1,23 @@
+
+dashboard:
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FMAGESH%2BD&action=view&mode=dashboard&subView=model0000018b41402d3d_00000000
+
+
+MAGESH STORY
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FMAGESH%2BSTORY&action=view&sceneId=-1&sceneTime=0
+
+
+DATA MODULE
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2Fmy%2Bdata
+
+
+EXPLORATION
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model0000018b3c77092f_00000000
+
+
+
+
